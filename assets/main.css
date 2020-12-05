@@ -1,0 +1,37 @@
+html div {
+    font-family: 'Sarabun', sans-serif;
+}
+
+.v-main__wrap {
+    background-color: #eeeeee;
+}
+
+.name-hospital {
+    font-size: 22px;
+}
+.menu {
+    font-size: 16px;
+}
+
+.bg {
+    height: 100%;
+    background-image: url('/bg.jpg');
+    background-size: cover;
+
+}
+.bg-color {
+    height: 100%;
+    background-color: rgba(191, 228, 243, 0.5);
+}
+
+.payment p {
+    font-size: 18px;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.payment-status {
+    font-size: 14px;
+}
